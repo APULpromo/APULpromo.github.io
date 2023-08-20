@@ -1,6 +1,6 @@
 
 html, body {
-text-align: center;
+text-align: top;
 }
 
 
@@ -31,7 +31,7 @@ body {
 	margin: 1;
 	padding: 1;
 	background: #303030;
-	background-image:url(https://github.com/APULpromo/APULpromo.github.io/blob/main/background.gif?raw=true);
+	background-image:url(background.png);
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	color: #000000;
 }
