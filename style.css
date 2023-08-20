@@ -27,6 +27,13 @@ text-align: center;
     width: 275px; 
 } 
 
+.img-image1.jpg {
+  width: 280;
+  height: 373;
+}
+
+
+
 body {
 	margin: 1;
 	padding: 1;
