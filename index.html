@@ -2,7 +2,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <link rel="stylesheet" type="text/css" href="style.css" />
     <title>Phoenix's Socials</title>
-    <img src="background.gif" alt="index" />
+    <img src="background.gif" alt="Yes" />
     </head>
     
 
