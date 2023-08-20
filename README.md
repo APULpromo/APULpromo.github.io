@@ -1,1 +1,1 @@
-# Please dont take anything from this directory.
+# Please dont take/edit anything from this directory.
