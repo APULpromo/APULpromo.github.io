@@ -1,3 +1,2 @@
 # APULPromo
-## (A Phoenix Urban Legend Pro Gamer Motion)
-
+## Welcome to APULPromo (A Phoenix Urban Legend Pro Gamer Motion)
